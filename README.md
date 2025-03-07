@@ -6,8 +6,12 @@ this is my first repository
 
 ### Third Header
 **this will be bold**
-* *italized* *
+*italized*
+~~cross out this test~~
+<sub>subscript?</sub>
 
+<sup>SUPER!</sup>
+<ins>underline</ins>
 
 
 
