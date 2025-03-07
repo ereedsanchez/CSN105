@@ -5,7 +5,7 @@ This is a test this is only a test
 this is my first repository 
 
 ### Third Header
-**this will be bold**
+**this will be bold**  
 *italized*  
 ~~cross out this test~~
 <sub>subscript?</sub>
