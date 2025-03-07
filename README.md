@@ -11,7 +11,14 @@ this is my first repository
 <sub>subscript?</sub>
 
 <sup>SUPER!</sup>
-<ins>underline</ins>
+<ins>underline</ins>  
+
+> This is a quote
+
+```
+This is for code example
+code looks like this
+```
 
 
 
